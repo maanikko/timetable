@@ -1,2 +1,0 @@
-"{\"date\": false, \"note\": \"Juo vett\\u00e4 2l p\\u00e4iv\\u00e4ss\\u00e4\"}"
-"{\"date\": \"2023-12-21T00:00:00\", \"note\": \"Tee advent of code harjoitus\"}"
