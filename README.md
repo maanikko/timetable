@@ -1,4 +1,4 @@
 #### Lukujärjestys - ohjelma
 Ohjelma tehty osana 'Ohjelmoinnin perusteet' kurssia harjoitustyönä.
 
-Dokumentaatio tiedosto löytyy hakemistosta 'dokumentaatio'
+Dokumentaatio tiedosto 'Dokumentaatio_!!!.md' löytyy hakemistosta 'dokumentaatio'
